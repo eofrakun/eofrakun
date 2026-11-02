@@ -1,16 +1,17 @@
-## Hi there 👋
+# hey, i'm Rakun 👋
 
-<!--
-**eofrakun/eofrakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just another developer making questionable things on the internet.
 
-Here are some ideas to get you started:
+- 🛠️ working with pretty much everything (thanks to AI, obviously)
+- 🌱 currently exploring backend stuff
+- ☕ powered by caffeine and bad decisions
+- 🐛 it's not a bug, it's an undocumented feature
+- 🗑️ **president of the trashcan republic** (self-appointed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+building small projects, fixing old mistakes and occasionally touching grass.
+
+> 🗳️ presidential campaign promise: fewer bugs, more garbage.
+
+*probably debugging something i didn't even write.*
